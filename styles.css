@@ -1,0 +1,131 @@
+/* style guide:
+font family: open sans condensed
+main/body background color: #002f8c
+text color: black
+*/
+
+html {
+  font-family: "Open Sans Condensed", sans-serif;
+}
+
+body {
+  background-color: #002f8c;
+}
+
+main {
+  background-color: #002f8c;
+  display: flex;
+  justify-content: center;
+}
+form {
+  font-size: larger;
+  font-weight: 700;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color: white;
+  width: 50%;
+  border-radius: 10px;
+  margin-top: 50px;
+}
+
+label {
+  margin-bottom: 5px;
+}
+
+input {
+  margin-bottom: 5px;
+}
+
+button {
+  border-radius: 10px;
+  background-color: lightgray;
+  border: none;
+  margin-top: 20px;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a {
+  font-weight: 500;
+  list-style: none;
+  text-decoration: none;
+  color: black;
+  margin-top: 5px;
+}
+
+footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+h2 {
+  display: flex;
+  justify-content: center;
+}
+
+.navtiem {
+  list-style: none;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  flex-direction: column;
+}
+
+img {
+  margin-top: 5px;
+  height: 50px;
+  width: 50px;
+  border-radius: 100px;
+}
+
+@media only screen and (min-width: 768px) {
+  form {
+    font-size: larger;
+    font-weight: 700;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: white;
+    width: 50%;
+    border-radius: 10px;
+    margin-top: 50px;
+  }
+
+  label {
+    display: flex;
+    justify-content: left;
+    flex-direction: column;
+  }
+  input {
+    text-align: center;
+    border-bottom: black solid 1px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  button:hover {
+    background-color: black;
+    color: white;
+  }
+
+  footer {
+    margin-top: 120px;
+  }
+  .navitem:hover {
+    text-decoration: underline;
+  }
+}

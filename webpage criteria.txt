@@ -1,0 +1,37 @@
+penelope green, 28, has 2 kids and has been married for 5 years now, born into a family of jewelers works as one herself, grew up in new york city loves hosting parties,
+and has a very active night-life. aside from jewelry her kids are her passion, leads a very lifestyle, 
+never misses an episode of oprah. wants to eventually open up her own business to sell her jewelry.
+
+
+
+
+john meyers, 32, musician, recently divorced, wants to open a music shop where he buys and sells new and used music equipment. He grew up in 
+a small rural town outside of nashville tenesee, environmentalist, loves traveling and being outdoors, wants to eventually retire and play music as a hobby
+
+
+
+
+
+
+
+-platform to network on
+-buy and sell
+-logistics
+-platform for their products, respectively
+-biography (user profile)
+-secured payment method
+-filtering system
+-social media
+-search system
+-ease of access
+-review system
+-support/contact/about
+-"save for later"/share
+
+style guide:
+
+#283442
+#8d0101
+
+
+
